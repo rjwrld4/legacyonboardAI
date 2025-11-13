@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23514538/README.md)
 
 LegacyOnboard AI — Prototype (Streamlit)
 ---------------------------------------
